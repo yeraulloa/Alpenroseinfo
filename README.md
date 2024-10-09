@@ -72,3 +72,17 @@
     </script>
 </body>
 </html>
+</body>
+</html>
+<img src="https://tinypic.host/image/%28Inglese%29.2fsAq6
+https://tinypic.host/image/1.2fsFJM
+https://tinypic.host/image/2.2fsXJh
+https://tinypic.host/image/3.2fs461
+https://tinypic.host/image/4.2fsbVG
+https://tinypic.host/image/5.2fstoz
+https://tinypic.host/image/6.2fszbU
+https://tinypic.host/image/7.2fsQD2
+https://tinypic.host/image/8.2fs0P4
+https://tinypic.host/image/10.2fs6Mf
+https://tinypic.host/image/11.2fscZk
+https://tinypic.host/image/12.2fsWOx" alt="Descrizione del design">

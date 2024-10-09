@@ -1,4 +1,3 @@
-# Alpenroseinfo
 <!DOCTYPE html>
 <html lang="it">
 <head>
@@ -16,6 +15,11 @@
             <option value="it">Italiano</option>
             <option value="en">English</option>
             <option value="es">Español</option>
+            <option value="de">Deutsch</option>
+            <option value="zh">中文</option> <!-- Cinese -->
+            <option value="sr">Српски</option> <!-- Serbo -->
+            <option value="fr">Français</option> <!-- Francese -->
+            <option value="ru">Русский</option> <!-- Russo -->
         </select>
     </div>
 
@@ -37,6 +41,26 @@
             es: {
                 title: "Bienvenido a Mi Sitio Web",
                 description: "Esta es una descripción de ejemplo en español."
+            },
+            de: {
+                title: "Willkommen auf meiner Website",
+                description: "Dies ist eine Beispielbeschreibung auf Deutsch."
+            },
+            zh: {
+                title: "欢迎来到我的网站",
+                description: "这是一个中文示例描述。"
+            },
+            sr: {
+                title: "Добродошли на мој сајт",
+                description: "Ово је пример описa на српском."
+            },
+            fr: {
+                title: "Bienvenue sur mon site",
+                description: "Ceci est une description d'exemple en français."
+            },
+            ru: {
+                title: "Добро пожаловать на мой сайт",
+                description: "Это пример описания на русском."
             }
         };
 
